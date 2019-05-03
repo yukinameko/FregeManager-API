@@ -1,4 +1,4 @@
-# FregeManager-API
+# FridgeManager-API
 
 ## 実行環境
 

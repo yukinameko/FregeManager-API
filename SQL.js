@@ -7,7 +7,7 @@ const query = Symbol();
 
 module.exports = class SQL {
 	constructor(tab) {
-		this.set('localhost', 33306, 'root', 'pass', 'frege', tab);
+		this.set('localhost', 33306, 'root', 'pass', 'fridge', tab);
 	}
 
 	set(host, port, user, pass, DB, tab) {
